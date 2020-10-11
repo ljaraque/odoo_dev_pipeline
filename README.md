@@ -1,4 +1,4 @@
-#### **ODOO DEVELOPMENT PIPELINE**  
+## **ODOO DEVELOPMENT PIPELINE**  
 (Development --> Lab --> Test --> Prod)    
   
 ---  
